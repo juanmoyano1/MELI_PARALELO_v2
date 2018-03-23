@@ -1,0 +1,16 @@
+.buttonGroup {
+    text-align: right;
+}
+
+.btn-white {
+    background-color: white;
+    margin: 0 5px;
+}
+
+.btn-white:hover {
+    background-color: #d8d8d8;
+}
+
+.btn.white:active {
+    background-color: #b9b7b7;
+}
