@@ -8,7 +8,7 @@ class Navbar extends Component {
                 <div className="nav-container">
                     <a href="/"><h2>Kwik-E-Mart</h2></a>
                     <div className="nav-right">
-                        <button className="btn btn-nav">Login</button>
+                        <a href="/login" className="btn btn-nav">Login</a>
                         <button className="btn btn-nav glyphicon glyphicon-shopping-cart"></button>
                     </div>
                 </div>

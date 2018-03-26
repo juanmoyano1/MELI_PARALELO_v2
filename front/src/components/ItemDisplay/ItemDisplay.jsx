@@ -6,7 +6,6 @@ import ItemList from '../ItemList/ItemList';
 class ItemDisplay extends Component {
     changeListing(e) {
         let target = e.target;
-        let
         console.log(target);
     }
 
