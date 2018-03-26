@@ -14,3 +14,7 @@
 .btn.white:active {
     background-color: #b9b7b7;
 }
+
+.itemListing {
+    text-align: center;
+}
